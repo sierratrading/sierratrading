@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Remix Full Stack Applications 
+- 👯 I’m looking to collaborate on Web Development Projects
+- 🤔 I’m looking for help with Rust Interpreter Projects
+- 📫 How to reach me: 
+
 <!--
 **sierratrading/sierratrading** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
