@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Remix Full Stack Applications
+- 🔭 I’m currently working on React,Remix,Rust Applications
 - 🔭 Testing across all browsers ensures app works as expected using Playwright
 - 👯 I’m looking to collaborate on Web Development Projects
 - 🤔 I’m looking to collaborate on projects that integrate Rust efficiency and Python packaging. 
