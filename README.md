@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on React,Remix,Rust Applications
+- 🔭 I’m currently working on DevOps Projects with React,Remix,Rust Applications
 - 🔭 Testing across all browsers ensures app works as expected using Playwright
-- 👯 I’m looking to collaborate on Web Development Projects
-- 🤔 I’m looking to collaborate on projects that integrate Rust efficiency and Python packaging. 
-- 📫 How to reach me: 
+- 🔭 Using Service Worker to enhance user experience with PWA strategies
+- 👯 I’m looking to collaborate on Web Development Projects and CICD Cloud migrations 
+- 📫 How to reach me: Through LinkIn and Discord
 
 <!--
 **sierratrading/sierratrading** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
