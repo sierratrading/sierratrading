@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on DevOps Projects with React,Remix,Rust Applications
 - 🔭 Testing across all browsers ensures app works as expected using Playwright
 - 🔭 Using Service Worker to enhance user experience with PWA strategies
-- 👯 I’m looking to collaborate on Web Development Projects and CICD Cloud migrations 
+- 👯 I’m looking to collaborate on Web Development Projects and CICD Cloud migrations implementations
 - 📫 How to reach me: Through LinkIn and Discord
 
 <!--
