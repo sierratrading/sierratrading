@@ -1,4 +1,4 @@
-### Hi Everyone! 👋
+### Hello, there 👋
 
 - 🔭 I’m currently working on AI Projects
 - 🔭 Testing across all browsers ensures app works as expected using Playwright, and GitHub workflows
