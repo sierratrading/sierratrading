@@ -1,6 +1,6 @@
 ### Hello, there 👋
 
-- 🔭 I’m currently working on Generative AI Projects, LLM Models.
+- 🔭 I’m currently working on Generative AI Projects, LLM Models, LangChain.
 - 🔭 Testing across all browsers ensures app works as expected using Playwright, and GitHub workflows
 - 🔭 Using Service Worker to enhance user experience with PWA strategies
 - 🔭 Automation through AWS Platform as Service: EC2, S3, ElasticBeanStalk, Terraform
