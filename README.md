@@ -4,7 +4,7 @@
 - 🔭 Testing across all browsers ensures app works as expected using Playwright, and GitHub workflows
 - 🔭 Using Service Worker and ElasticCache to enhance user experience with PWA strategies
 - 🔭 Automation through Pulumi Platform as Service, EC2, S3, ElasticBeanStalk, Terraform
-- 👯 I’m looking to collaborate on Web Development Projects and CICD Cloud migrations implementations
+- 👯 I’m looking to collaborate on Projects and CICD Cloud migrations implementations
 
 
 <!--
