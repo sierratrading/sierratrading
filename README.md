@@ -1,4 +1,4 @@
-Hello !
+Hello EveryOne !
 
 - 🔭 I’m currently working on Generative AI Projects, DevOps projects, LLM Models, LangChain, PapaerSpace.
 - 🔭 Testing across all browsers ensures app works as expected using Playwright, and GitHub workflows
