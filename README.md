@@ -6,6 +6,7 @@ Hello EveryOne !
 - 🔭 Deployment strategies on AZURE, AWS, GCP and multi-Cloud Environment
 - 🔭 Automation through Pulumi Platform as Service, EC2, S3, ElasticBeanStalk, Terraform
 - 🔭 Generative AI projects
+- 🔭 SDK Rust Projects
 - 👯 looking to collaborate on Projects and CICD Cloud migrations on AWS, GCP, IBM, and other Cloud venders
 
 
