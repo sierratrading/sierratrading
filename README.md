@@ -6,7 +6,7 @@ Hi there!
 - 🔭 Deployment strategies on AZURE, AWS, GCP and multi-Cloud Environment
 - 🔭 Automation through Paas, EC2, S3, ElasticBeanStalk, Terraform, Amplify, CloudFormation, Glue
 - 🔭 Generative AI projects
-- 🔭 SDK Rust Projects
+- 🔭 Rust Projects, concurrency programming  
 - 👯 looking to collaborate on Projects and CICD Cloud migrations on AWS, GCP, IBM, and other Cloud venders
 
 
