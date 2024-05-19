@@ -7,7 +7,7 @@ Hi there!
 - 🔭 Automation through Paas, EC2, S3, ElasticBeanStalk, Terraform, Amplify, CloudFormation, Glue
 - 🔭 Generative AI projects
 - 🔭 Rust Projects, concurrency programming  
-- 👯 looking to collaborate on Projects and CICD Cloud migrations on AWS, GCP, IBM, and other Cloud venders
+- 👯 looking to collaborate on Projects and CICD Cloud migrations on AWS, GCP, IBM, Alibaba Cloud and other Cloud venders
 
 
 <!--
