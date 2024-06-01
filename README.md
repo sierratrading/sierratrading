@@ -4,7 +4,7 @@ Hi there!
 - 🔭 Testing across all browsers ensures app works as expected using Playwright, and GitHub workflows
 - 🔭 Using Service Worker and ElasticCache to enhance user experience with PWA strategies
 - 🔭 Deployment strategies on AZURE, AWS, GCP and multi-Cloud Environment
-- 🔭 Automation through Paas, EC2, S3, ElasticBeanStalk, Terraform, Amplify, CloudFormation, CloudFormation
+- 🔭 Automation through Paas, EC2, S3, ElasticBeanStalk, Terraform, Amplify, CloudFormation, SAM.
 - 🔭 Generative AI projects
 - 🔭 Build CICD with terraform and Jenkins
 - 🔭 Rust Projects, concurrency programming  
