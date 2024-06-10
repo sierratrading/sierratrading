@@ -6,7 +6,7 @@ Hi there!
 - 🔭 Deployment strategies on AZURE, AWS, GCP and multi-Cloud Environment
 - 🔭 Automation through Paas, EC2, S3, ElasticBeanStalk, Terraform, Amplify, CloudFormation, SAM.
 - 🔭 Build CICD with terraform and Jenkins
-- 🔭 Rust Projects, concurrency programming  
+- 🔭 Rust Projects, concurrency programming, memory safety
 - 👯 Collaborate on Projects and CICD Cloud migrations on AWS, GCP, IBM, Alibaba Cloud and other Cloud venders
 
 
