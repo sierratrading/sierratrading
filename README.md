@@ -1,6 +1,6 @@
 Hi there!
 
-- Currently working on Generative AI Projects, DevOps projects, LLM Models, LangChain
+- I'm Currently working on Generative AI Projects, DevOps projects, LLM Models, LangChain
 - Test across all browsers ensures app works as expected using Playwright, and GitHub workflows
 - Use Service Worker and ElasticCache to enhance user experience with PWA strategies
 - Deployment strategies on AZURE, AWS, GCP and multi-Cloud Environment
