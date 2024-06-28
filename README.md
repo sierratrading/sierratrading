@@ -1,4 +1,4 @@
-Hi there!
+Hi Everyone!
 
 - I'm Currently working on Generative AI Projects, DevOps projects
 - Test across all browsers ensures app works as expected using Playwright, and GitHub workflows
