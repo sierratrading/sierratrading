@@ -1,7 +1,7 @@
 Hi Everyone!
 
 - I'm Currently working Rust on Leptos, improve Site reliability
-- Security on the cloud
+- Improve Security for data and application protection
 - Test across all browsers ensures app works as expected using Playwright, and GitHub workflows
 - Use Service Worker and ElasticCache to enhance user experience with PWA strategies
 - Deployment microservice on AZURE, AWS, GCP and multi-Cloud Environment
