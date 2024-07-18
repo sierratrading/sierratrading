@@ -9,7 +9,7 @@ Hi Everyone!
 - Automation through Paas, EC2, S3, ElasticBeanStalk, Terraform, Amplify, CloudFormation, SAM.
 - Build DevOps pipeline with terraform, Ansible
 - Rust Projects, concurrency programming, memory safety
-- Collaborate on Projects and CICD Cloud migrations on AWS, GCP, IBM, Alibaba Cloud and other Cloud venders
+
 
 
 <!--
