@@ -4,7 +4,7 @@ Hi Everyone!
 - Improve Security for data and application protection
 - Test across all browsers ensures app works as expected using Playwright, and GitHub workflows
 - Use Service Worker and ElasticCache to enhance user experience with PWA strategies
-- Deployment microservice on AZURE, AWS, GCP and multi-Cloud Environment
+- Deployment microservice on AZURE, AWS, Google cloud and multi-tenant Environment
 - Streamlines application development cycle through DevOps best practices
 - Automation through Paas, EC2, S3, ElasticBeanStalk, Terraform, Amplify, CloudFormation, SAM.
 - Build DevOps pipeline with terraform, Ansible
