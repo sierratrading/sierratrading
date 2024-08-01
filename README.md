@@ -1,6 +1,6 @@
 Hi Everyone!
 
-- I'm Currently working Rust on Leptos, improve Site reliability
+- I'm Currently working Rust on Leptos projects
 - Improve Security for data and application protection
 - Test across all browsers ensures app works as expected using Playwright, and GitHub workflows
 - Use Service Worker and ElasticCache to enhance user experience with PWA strategies
