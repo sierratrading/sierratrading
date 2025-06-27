@@ -1,19 +1,4 @@
-Power Platform
 
-Microsoft 365 
-
-Microsoft Azure
-
-Microsoft Fabric
-
-AWS Solution Architect
-
-Startups
-
-
-Community
-
-Building Cloud Solutions
 
 
 
